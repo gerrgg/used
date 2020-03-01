@@ -1,0 +1,14 @@
+header{
+    
+    .navbar-brand{
+        font-size: 2rem;
+    }
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        li.nav-item{
+            padding: 0 .75rem;
+        }
+    }
+}
